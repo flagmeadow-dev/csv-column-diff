@@ -1,0 +1,4 @@
+{
+  "before": "id,name\n1,A\n",
+  "after": "id,email\n1,a@example.invalid\n"
+}

@@ -1,0 +1,9 @@
+{
+  "added": [
+    "email"
+  ],
+  "removed": [
+    "name"
+  ],
+  "order_changed": true
+}
